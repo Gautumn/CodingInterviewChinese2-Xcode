@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:18_02_DeleteDuplicatedNode/18_02_DeleteDuplicatedNode.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:18_01_DeleteNodeInList/18_01_DeleteNodeInList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03_01_DuplicationInArray/03_01_DuplicationInArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:04_FindInPartiallySortedMatrix/04_FindInPartiallySortedMatrix.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:06_PrintListInReversedOrder/06_PrintListInReversedOrder.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:07_ConstructBinaryTree/07_ConstructBinaryTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:08_NextNodeInBinaryTrees/08_NextNodeInBinaryTrees.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:09_QueueWithTwoStacks/09_QueueWithTwoStacks.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:10_Fibonacci/10_Fibonacci.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:11_MinNumberInRotatedArray/11_MinNumberInRotatedArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:12_StringPathInMatrix/12_StringPathInMatrix.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:13_RobotMove/13_RobotMove.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:14_CuttingRope/14_CuttingRope.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:16_Power/16_Power.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:17_Print1ToMaxOfNDigits/17_Print1ToMaxOfNDigits.xcodeproj">
+   </FileRef>
+</Workspace>
