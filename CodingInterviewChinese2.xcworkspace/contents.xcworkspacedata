@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:18_02_DeleteDuplicatedNode/18_02_DeleteDuplicatedNode.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:18_01_DeleteNodeInList/18_01_DeleteNodeInList.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:03_01_DuplicationInArray/03_01_DuplicationInArray.xcodeproj">
    </FileRef>
    <FileRef
@@ -45,5 +39,23 @@
    </FileRef>
    <FileRef
       location = "group:17_Print1ToMaxOfNDigits/17_Print1ToMaxOfNDigits.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:18_01_DeleteNodeInList/18_01_DeleteNodeInList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:18_02_DeleteDuplicatedNode/18_02_DeleteDuplicatedNode.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:19_RegularExpressionsMatching/19_RegularExpressionsMatching.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:21_ReorderArray/21_ReorderArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:22_KthNodeFromEnd/22_KthNodeFromEnd.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:23_EntryNodeInListLoop/23_EntryNodeInListLoop.xcodeproj">
    </FileRef>
 </Workspace>
