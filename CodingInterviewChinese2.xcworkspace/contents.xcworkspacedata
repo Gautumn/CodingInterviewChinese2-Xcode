@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:25_MergeSortedLists/25_MergeSortedLists.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:24_ReverseList/24_ReverseList.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:03_01_DuplicationInArray/03_01_DuplicationInArray.xcodeproj">
    </FileRef>
    <FileRef
