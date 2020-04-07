@@ -67,4 +67,16 @@
    <FileRef
       location = "group:26_SubstructureInTree/26_SubstructureInTree.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:27_MirrorOfBinaryTree/27_MirrorOfBinaryTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:28_SymmetricalBinaryTree/28_SymmetricalBinaryTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:29_PrintMatrix/29_PrintMatrix.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:30_MinInStack/30_MinInStack.xcodeproj">
+   </FileRef>
 </Workspace>
