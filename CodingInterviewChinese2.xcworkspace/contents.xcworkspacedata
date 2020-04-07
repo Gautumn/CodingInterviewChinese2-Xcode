@@ -79,4 +79,16 @@
    <FileRef
       location = "group:30_MinInStack/30_MinInStack.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:31_StackPushPopOrder/31_StackPushPopOrder.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:32_01_PrintTreeFromTopToBottom/32_01_PrintTreeFromTopToBottom.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:32_02_PrintTreesInLines/32_02_PrintTreesInLines.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:32_03_PrintTreesInZigzag/32_03_PrintTreesInZigzag.xcodeproj">
+   </FileRef>
 </Workspace>
