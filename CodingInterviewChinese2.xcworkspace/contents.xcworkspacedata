@@ -91,4 +91,28 @@
    <FileRef
       location = "group:32_03_PrintTreesInZigzag/32_03_PrintTreesInZigzag.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:33_SquenceOfBST/33_SquenceOfBST.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:34_PathInTree/34_PathInTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:35_CopyComplexList/35_CopyComplexList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:36_ConvertBinarySearchTree/36_ConvertBinarySearchTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:37_SerializeBinaryTrees/37_SerializeBinaryTrees.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:38_01_StringPermutation/38_01_StringPermutation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:38_02_StringCombination/38_02_StringCombination.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:39_MoreThanHalfNumber/39_MoreThanHalfNumber.xcodeproj">
+   </FileRef>
 </Workspace>
