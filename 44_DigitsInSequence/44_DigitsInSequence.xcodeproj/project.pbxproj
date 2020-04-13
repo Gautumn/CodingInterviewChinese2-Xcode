@@ -7,12 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD1807C1243DD3E200C3FC02 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD1807C0243DD3E200C3FC02 /* main.cpp */; };
-		DD180802243EAE9700C3FC02 /* Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DD180800243EAE9700C3FC02 /* Array.cpp */; };
+		DDCF8BCC24445A01005C8CAD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DDCF8BCB24445A01005C8CAD /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		DD1807BB243DD3E200C3FC02 /* CopyFiles */ = {
+		DDCF8BC624445A01005C8CAD /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -24,14 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DD1807BD243DD3E200C3FC02 /* 39_MoreThanHalfNumber */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 39_MoreThanHalfNumber; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD1807C0243DD3E200C3FC02 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		DD180800243EAE9700C3FC02 /* Array.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Array.cpp; path = ../../Utilities/Array.cpp; sourceTree = "<group>"; };
-		DD180801243EAE9700C3FC02 /* Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Array.h; path = ../../Utilities/Array.h; sourceTree = "<group>"; };
+		DDCF8BC824445A01005C8CAD /* 44_DigitsInSequence */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 44_DigitsInSequence; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDCF8BCB24445A01005C8CAD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DD1807BA243DD3E200C3FC02 /* Frameworks */ = {
+		DDCF8BC524445A01005C8CAD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,67 +38,65 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DD1807B4243DD3E200C3FC02 = {
+		DDCF8BBF24445A01005C8CAD = {
 			isa = PBXGroup;
 			children = (
-				DD1807BF243DD3E200C3FC02 /* 39_MoreThanHalfNumber */,
-				DD1807BE243DD3E200C3FC02 /* Products */,
+				DDCF8BCA24445A01005C8CAD /* 44_DigitsInSequence */,
+				DDCF8BC924445A01005C8CAD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DD1807BE243DD3E200C3FC02 /* Products */ = {
+		DDCF8BC924445A01005C8CAD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD1807BD243DD3E200C3FC02 /* 39_MoreThanHalfNumber */,
+				DDCF8BC824445A01005C8CAD /* 44_DigitsInSequence */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DD1807BF243DD3E200C3FC02 /* 39_MoreThanHalfNumber */ = {
+		DDCF8BCA24445A01005C8CAD /* 44_DigitsInSequence */ = {
 			isa = PBXGroup;
 			children = (
-				DD180800243EAE9700C3FC02 /* Array.cpp */,
-				DD180801243EAE9700C3FC02 /* Array.h */,
-				DD1807C0243DD3E200C3FC02 /* main.cpp */,
+				DDCF8BCB24445A01005C8CAD /* main.cpp */,
 			);
-			path = 39_MoreThanHalfNumber;
+			path = 44_DigitsInSequence;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DD1807BC243DD3E200C3FC02 /* 39_MoreThanHalfNumber */ = {
+		DDCF8BC724445A01005C8CAD /* 44_DigitsInSequence */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD1807C4243DD3E200C3FC02 /* Build configuration list for PBXNativeTarget "39_MoreThanHalfNumber" */;
+			buildConfigurationList = DDCF8BCF24445A01005C8CAD /* Build configuration list for PBXNativeTarget "44_DigitsInSequence" */;
 			buildPhases = (
-				DD1807B9243DD3E200C3FC02 /* Sources */,
-				DD1807BA243DD3E200C3FC02 /* Frameworks */,
-				DD1807BB243DD3E200C3FC02 /* CopyFiles */,
+				DDCF8BC424445A01005C8CAD /* Sources */,
+				DDCF8BC524445A01005C8CAD /* Frameworks */,
+				DDCF8BC624445A01005C8CAD /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = 39_MoreThanHalfNumber;
-			productName = 39_MoreThanHalfNumber;
-			productReference = DD1807BD243DD3E200C3FC02 /* 39_MoreThanHalfNumber */;
+			name = 44_DigitsInSequence;
+			productName = 44_DigitsInSequence;
+			productReference = DDCF8BC824445A01005C8CAD /* 44_DigitsInSequence */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DD1807B5243DD3E200C3FC02 /* Project object */ = {
+		DDCF8BC024445A01005C8CAD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "高娟妹";
 				TargetAttributes = {
-					DD1807BC243DD3E200C3FC02 = {
+					DDCF8BC724445A01005C8CAD = {
 						CreatedOnToolsVersion = 11.2;
 					};
 				};
 			};
-			buildConfigurationList = DD1807B8243DD3E200C3FC02 /* Build configuration list for PBXProject "39_MoreThanHalfNumber" */;
+			buildConfigurationList = DDCF8BC324445A01005C8CAD /* Build configuration list for PBXProject "44_DigitsInSequence" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,30 +104,29 @@
 				en,
 				Base,
 			);
-			mainGroup = DD1807B4243DD3E200C3FC02;
-			productRefGroup = DD1807BE243DD3E200C3FC02 /* Products */;
+			mainGroup = DDCF8BBF24445A01005C8CAD;
+			productRefGroup = DDCF8BC924445A01005C8CAD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD1807BC243DD3E200C3FC02 /* 39_MoreThanHalfNumber */,
+				DDCF8BC724445A01005C8CAD /* 44_DigitsInSequence */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DD1807B9243DD3E200C3FC02 /* Sources */ = {
+		DDCF8BC424445A01005C8CAD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD1807C1243DD3E200C3FC02 /* main.cpp in Sources */,
-				DD180802243EAE9700C3FC02 /* Array.cpp in Sources */,
+				DDCF8BCC24445A01005C8CAD /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DD1807C2243DD3E200C3FC02 /* Debug */ = {
+		DDCF8BCD24445A01005C8CAD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +184,7 @@
 			};
 			name = Debug;
 		};
-		DD1807C3243DD3E200C3FC02 /* Release */ = {
+		DDCF8BCE24445A01005C8CAD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +235,7 @@
 			};
 			name = Release;
 		};
-		DD1807C5243DD3E200C3FC02 /* Debug */ = {
+		DDCF8BD024445A01005C8CAD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -249,7 +243,7 @@
 			};
 			name = Debug;
 		};
-		DD1807C6243DD3E200C3FC02 /* Release */ = {
+		DDCF8BD124445A01005C8CAD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -260,25 +254,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD1807B8243DD3E200C3FC02 /* Build configuration list for PBXProject "39_MoreThanHalfNumber" */ = {
+		DDCF8BC324445A01005C8CAD /* Build configuration list for PBXProject "44_DigitsInSequence" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD1807C2243DD3E200C3FC02 /* Debug */,
-				DD1807C3243DD3E200C3FC02 /* Release */,
+				DDCF8BCD24445A01005C8CAD /* Debug */,
+				DDCF8BCE24445A01005C8CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD1807C4243DD3E200C3FC02 /* Build configuration list for PBXNativeTarget "39_MoreThanHalfNumber" */ = {
+		DDCF8BCF24445A01005C8CAD /* Build configuration list for PBXNativeTarget "44_DigitsInSequence" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD1807C5243DD3E200C3FC02 /* Debug */,
-				DD1807C6243DD3E200C3FC02 /* Release */,
+				DDCF8BD024445A01005C8CAD /* Debug */,
+				DDCF8BD124445A01005C8CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DD1807B5243DD3E200C3FC02 /* Project object */;
+	rootObject = DDCF8BC024445A01005C8CAD /* Project object */;
 }

@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:46_TranslateNumbersToStrings/46_TranslateNumbersToStrings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:45_SortArrayForMinNumber/45_SortArrayForMinNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:44_DigitsInSequence/44_DigitsInSequence.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:43_NumberOf1/43_NumberOf1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:42_GreatestSumOfSubarrays/42_GreatestSumOfSubarrays.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:03_01_DuplicationInArray/03_01_DuplicationInArray.xcodeproj">
    </FileRef>
    <FileRef
@@ -114,5 +129,11 @@
    </FileRef>
    <FileRef
       location = "group:39_MoreThanHalfNumber/39_MoreThanHalfNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:40_KLeastNumbers/40_KLeastNumbers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:41_StreamMedian/41_StreamMedian.xcodeproj">
    </FileRef>
 </Workspace>
