@@ -2,19 +2,37 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:46_TranslateNumbersToStrings/46_TranslateNumbersToStrings.xcodeproj">
+      location = "group:68_CommonParentInTree/68_CommonParentInTree.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:45_SortArrayForMinNumber/45_SortArrayForMinNumber.xcodeproj">
+      location = "group:67_StringToInt/67_StringToInt.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:44_DigitsInSequence/44_DigitsInSequence.xcodeproj">
+      location = "group:66_ConstuctArray/66_ConstuctArray.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:43_NumberOf1/43_NumberOf1.xcodeproj">
+      location = "group:65_AddTwoNumbers/65_AddTwoNumbers.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:42_GreatestSumOfSubarrays/42_GreatestSumOfSubarrays.xcodeproj">
+      location = "group:64_Accumulate/64_Accumulate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:63_MaximalProfit/63_MaximalProfit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:62_LastNumberInCircle/62_LastNumberInCircle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:61_ContinousCards/61_ContinousCards.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:60_DicesProbability/60_DicesProbability.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:59_02_QueueWithMax/59_02_QueueWithMax.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:59_01_MaxInSlidingWindow/59_01_MaxInSlidingWindow.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:03_01_DuplicationInArray/03_01_DuplicationInArray.xcodeproj">
@@ -135,5 +153,74 @@
    </FileRef>
    <FileRef
       location = "group:41_StreamMedian/41_StreamMedian.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:42_GreatestSumOfSubarrays/42_GreatestSumOfSubarrays.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:43_NumberOf1/43_NumberOf1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:44_DigitsInSequence/44_DigitsInSequence.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:45_SortArrayForMinNumber/45_SortArrayForMinNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:46_TranslateNumbersToStrings/46_TranslateNumbersToStrings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:47_MaxValueOfGifts/47_MaxValueOfGifts.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:48_LongestSubstringWithoutDup/48_LongestSubstringWithoutDup.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:49_UglyNumber/49_UglyNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:50_01_FirstNotRepeatingChar/50_01_FirstNotRepeatingChar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:50_02_FirstCharacterInStream/50_02_FirstCharacterInStream.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:51_InversePairs/51_InversePairs.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:52_FirstCommonNodesInLists/52_FirstCommonNodesInLists.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:53_01_NumberOfK/53_01_NumberOfK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:53_02_MissingNumber/53_02_MissingNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:53_03_IntegerIdenticalToIndex/53_03_IntegerIdenticalToIndex.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:55_01_TreeDepth/55_01_TreeDepth.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:55_02_BalancedBinaryTree/55_02_BalancedBinaryTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:56_01_NumbersAppearOnce/56_01_NumbersAppearOnce.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:56_02_NumberAppearingOnce/56_02_NumberAppearingOnce.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:57_01_TwoNumbersWithSum/57_01_TwoNumbersWithSum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:57_02_ContinuousSquenceWithSum/57_02_ContinuousSquenceWithSum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:58_01_ReverseWordsInSentence/58_01_ReverseWordsInSentence.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:58_02_LeftRotateString/58_02_LeftRotateString.xcodeproj">
    </FileRef>
 </Workspace>
